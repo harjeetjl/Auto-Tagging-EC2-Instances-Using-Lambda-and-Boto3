@@ -94,8 +94,15 @@ After the configuration is complete:
 ## Screenshots
 
 - EC2 instance creation showing applied tags
+![image](https://github.com/user-attachments/assets/acd33b49-fe19-4d34-89d7-cd468a32f6db)
+
 - Lambda function code and trigger settings
+![image](https://github.com/user-attachments/assets/b75f12cc-f70f-44d3-bb00-2f08e540027e)
+
 - IAM role configuration and attached policies
-- CloudWatch Event rule configuration
+![image](https://github.com/user-attachments/assets/6b7a00b7-1a84-41f8-9042-33d689bd3df0)
+
 - EC2 instance with tags applied after Lambda execution
+![image](https://github.com/user-attachments/assets/7ab1270d-ae66-4903-b431-f346241fd57e)
+
 
